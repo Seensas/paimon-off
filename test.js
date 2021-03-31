@@ -569,7 +569,7 @@ client.on("message", function (message) {
         }
 
         //$primo
-        if (message.content === prefix + "primo") { message.channel.send(`Tu possèdes actuellement: **${bdd[`${idAuthorId}`]["Primo"]}** <:primo:823874382391934977>`); console.log(`primo${compteur}`)}
+        if (message.content === prefix + "primo") { message.channel.send(`Tu possèdes actuellement: **${bdd[`${idAuthorId}`]["Primo"]}** <:primo:823874382391934977>`)}
 
         //$d
         if(message.content === prefix + "d") {
@@ -605,7 +605,7 @@ client.on("message", function (message) {
     }catch{
         console.error(error);
     }
-    },1000);
+    },500);
 
     //boss + $boss
     //$pariz
