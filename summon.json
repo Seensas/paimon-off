@@ -1,0 +1,1151 @@
+{
+    "summon1": [
+        {
+            "name": "Couteau à filets",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/24/15363053/b212aac89bb6d20fe174035b9469da21_7690044019612455980.png"
+        },
+        {
+            "name": "Épée du voyageur",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "40",
+            "titre2": "Stat secondaire",
+            "value2": "Déf %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/25/15363053/ea426d267c69897cc818c5d5a9e386ea_7180327401064101003.png"
+        },
+        {
+            "name": "Lame froide",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/20/75833613/24bdaea5978d2634d74dad47442d6122_5952645184599759406.png"
+        },
+        {
+            "name": "Message de l'Aube",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/20/75833613/471586149ecedabc50df80a71c1a4e13_3793341076628570097.png"
+        },
+        {
+            "name": "Épée en fer noir",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/21/75833613/fb3ff7f236246073f2f508f1f774a9ab_1051371285111779684.png"
+        },
+        {
+            "name": "Épée Céleste",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "38",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/2f7a7658839225d2180ff05943ffddc1_7022436895937688431.png"
+        },
+        {
+            "name": "Arc du corbeau",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "40",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/3624d7d0a0ef89d91cb1166bac6d5518_203827168685435690.png"
+        },
+        {
+            "name": "Serment de l'archer",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/20/75833613/8ec0ab79c3a2e30828331e0d53428fec_996903203990077445.png"
+        },
+        {
+            "name": "Arc courbé",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "38",
+            "titre2": "Stat secondaire",
+            "value2": "PV %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/e39707b29fa90b4f113673fba60f9b30_8904966951668076201.png"
+        },
+        {
+            "name": "Lance-pierre",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "38",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/aac8d2ff61512cad048858d2b40385c4_8602711396493932213.png"
+        },
+        {
+            "name": "Messager",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "40",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/16f64d570b8d5a72000191df60f62601_365762376444191659.png"
+        },
+        {
+            "name": "Pampille noire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "38",
+            "titre2": "Stat secondaire",
+            "value2": "PV %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/2ef0c79a0d05d49f3c7c884520e70ef6_5195161296538470174.png"
+        },
+        {
+            "name": "Pampille blanche",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/c5f23afc286a3eef8e5ea2e889ca67ff_7924361927138625902.png"
+        },
+        {
+            "name": "Hallebarde",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "40",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/2ef0c79a0d05d49f3c7c884520e70ef6_5195161296538470174.png"
+        },
+        {
+            "name": "Epee sanglante",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "38",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/6612743f57016119d5d86d65b0bb3c78_3196317539192453584.png"
+        },
+        {
+            "name": "Epée de la raison",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/059f200b99d098fd1791a5b6df57fb15_5307469686015835465.png"
+        },
+        {
+            "name": "Ombre ferreuse",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "PV %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/9f92bc7c1b1c9f667d8b36a2890dba3c_8353313629949769064.png"
+        },
+        {
+            "name": "Grande épée céleste",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/20/75833613/854cd39ff72be307921f53ca61757164_1489617021001881582.png"
+        },
+        {
+            "name": "Grande épée en fer blanc",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Déf %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/09/17/75833613/f559f442e3ceeb5d0fe4c9e8916f6036_4584052686504386817.png"
+        },
+        {
+            "name": "Guide de magie",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "38",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/20/75833613/c154d6129fabcfd551b6f33b88d06d37_6670048046389209616.png"
+        },
+        {
+            "name": "Histoire des chasseurs de dragon",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "PV %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/19/75833613/960be0723a8299db9ccb6a02f74e8e2e_399307768606274038.png"
+        },
+        {
+            "name": "Conte d'un autre monde",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/99f89aff67fb655d40c72b4c9e3c2dbd_2491086233068696595.png"
+        },
+        {
+            "name": "Nephrite jumelle",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "40",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/75833613/86bb969cdb644cf54cf0ab62350b2e63_2443071488616089321.png"
+        },
+        {
+            "name": "Orbe Jadien",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "40",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élementaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/25/15363053/5fc36e1db7461a5086df18b58f0dcb8a_5736109454206168494.png"
+        }
+    ],
+    "summon2": [
+        {
+            "name": "Sucrose",
+            "type": "personnage",
+            "description": "Catalyseur / Anemo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Wind.png",
+            "titre1": "Attaque",
+            "value1": "Esprit du Vent",
+            "titre2": "Skill",
+            "value2": "Sujet 6308",
+            "titre3": "Burst",
+            "value3": "Isomorphe 75 Type II",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Sucrose-1.png"
+        },
+        {
+            "name": "Xiangling",
+            "type": "personnage",
+            "description": "Lancier / Pyro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Fire.png",
+            "titre1": "Attaque",
+            "value1": "Cuisine-fu",
+            "titre2": "Skill",
+            "value2": "Attaque Gooba",
+            "titre3": "Burst",
+            "value3": "Pyrotation",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Xiangling-1.png"
+        },
+        {
+            "name": "Bennett",
+            "type": "personnage",
+            "description": "Epée à 1 main / Pyro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Fire.png",
+            "titre1": "Attaque",
+            "value1": "Épée chanceuse",
+            "titre2": "Skill",
+            "value2": "Surpassion",
+            "titre3": "Burst",
+            "value3": "Merveilleux voyage",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Bennett-1.png"
+        },
+        {
+            "name": "Amber",
+            "type": "personnage",
+            "description": "Arc / Pyro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Fire.png",
+            "titre1": "Attaque",
+            "value1": "Archerie Revisitée",
+            "titre2": "Skill",
+            "value2": "Baron Lapinou",
+            "titre3": "Burst",
+            "value3": "Pluie de Flèches",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Amber-1.png"
+        },
+        {
+            "name": "Razor",
+            "type": "personnage",
+            "description": "Epée à 2 mains / Electro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Electric.png",
+            "titre1": "Attaque",
+            "value1": "Crocs d'acier",
+            "titre2": "Skill",
+            "value2": "Griffe et tonnerre",
+            "titre3": "Burst",
+            "value3": "Croc d'éclair",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Razor-1.png"
+        },
+        {
+            "name": "Fischl",
+            "type": "personnage",
+            "description": "Arc / Electro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Electric.png",
+            "titre1": "Attaque",
+            "value1": "Flèche de culpabilité",
+            "titre2": "Skill",
+            "value2": "Ailes de surveillance nocturne",
+            "titre3": "Burst",
+            "value3": "Incarnation de la nuit",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Fischl-1.png"
+        },
+        {
+            "name": "Lisa",
+            "type": "personnage",
+            "description": "Catalyseur / Electro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Electric.png",
+            "titre1": "Attaque",
+            "value1": "Touche d'éclair",
+            "titre2": "Skill",
+            "value2": "Arc fulminant",
+            "titre3": "Burst",
+            "value3": "Rose de foudre",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Lisa-1.png"
+        },
+        {
+            "name": "Chongyun",
+            "type": "personnage",
+            "description": "Epée à 2 mains / Cryo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Ice.png",
+            "titre1": "Attaque",
+            "value1": "Fléau des démons",
+            "titre2": "Skill",
+            "value2": "Lame de l'esprit : Givre superposé",
+            "titre3": "Burst",
+            "value3": "Lame de l'esprit : Chute d'étoiles",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Chongyun-1.png"
+        },
+        {
+            "name": "Kaeya",
+            "type": "personnage",
+            "description": "Epée à 1 main / Cryo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Ice.png",
+            "titre1": "Attaque",
+            "value1": "Escrime à l'épée rituelles",
+            "titre2": "Skill",
+            "value2": "Attaque givrée",
+            "titre3": "Burst",
+            "value3": "Valse glaciale",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Kaeya-1.png"
+        },
+        {
+            "name": "Diona",
+            "type": "personnage",
+            "description": "Arc / Cryo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Ice.png",
+            "titre1": "Attaque",
+            "value1": "Archerie de chasse",
+            "titre2": "Skill",
+            "value2": "Griffes Cryo",
+            "titre3": "Burst",
+            "value3": "Cuvée spéciale",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/11/Diona2.png"
+        },
+        {
+            "name": "Noelle",
+            "type": "personnage",
+            "description": "Epée à 2 mains / Geo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Rock.png",
+            "titre1": "Attaque",
+            "value1": "Escrime de Favonius - Servante",
+            "titre2": "Skill",
+            "value2": "Armure de cœur",
+            "titre3": "Burst",
+            "value3": "Grand ménage",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Noelle-1.png"
+        },
+        {
+            "name": "Ningguang",
+            "type": "personnage",
+            "description": "Catalyseur / Geo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Rock.png",
+            "titre1": "Attaque",
+            "value1": "Géo-dispersion",
+            "titre2": "Skill",
+            "value2": "Paravent d'astrolabe",
+            "titre3": "Burst",
+            "value3": "Éclatement des étoiles",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Ningguang.png"
+        },
+        {
+            "name": "Xingqiu",
+            "type": "personnage",
+            "description": "Epée à 1 main / Hydro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Water.png",
+            "titre1": "Attaque",
+            "value1": "Style Guhua",
+            "titre2": "Skill",
+            "value2": "Épée Guhua : Pluie Battante",
+            "titre3": "Burst",
+            "value3": "Épée Guhua : pluie et arc-en-ciel",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Xingqiu-1.png"
+        },
+        {
+            "name": "Barbara",
+            "type": "personnage",
+            "description": "Catalyseur / Hydro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Water.png",
+            "titre1": "Attaque",
+            "value1": "Murmure de l'eau",
+            "titre2": "Skill",
+            "value2": "C'est parti pour le show",
+            "titre3": "Burst",
+            "value3": "Miracle brillant",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Barbara-1.png"
+        },
+        {
+            "name": "Piqûre de fer",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/3aab2b1b2703f755d88330ed161568b1_7717023741306631446.png"
+        },
+        {
+            "name": "Rugissement du lion",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/157123aec9296f06c27def671ac923b1_6285172838688187518.png"
+        },
+        {
+            "name": "Tailleur de pierre (prototype)",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/7916a14d5e0ecaea8a37db5505c01f2e_7633572603671422146.png"
+        },
+        {
+            "name": "Épée rituelle",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/f9c145f07db2787008c50e7c292a46a2_8299828053497563222.png"
+        },
+        {
+            "name": "Épée longue royale",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/de675880f3e60488abec363d5579a502_2631001427642895675.png"
+        },
+        {
+            "name": "Épée longue de Rochenoire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "DGT Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/d293b11207ee53181851b43e1d190d7a_1067470485743383960.png"
+        },
+        {
+            "name": "Épée de Favonius",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/0b4101418da4c458e2df1ee94953c21f_6849749357387194597.png"
+        },
+        {
+            "name": "Épée noire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/22a34b562052859421a1b0b366093f81_2631001427642895675.png"
+        },
+        {
+            "name": "La flûte",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/cf572b27ab0c4934984f05af1307888e_8924902473808502556.png"
+        },
+        {
+            "name": "Epée de la descente",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "39",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/11/epee-de-la-descente.png"
+        },
+        {
+            "name": "Croc Suppurant",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/12/03/75833613/7286ac5c1b6bc93fec0e01c5572ae334_7970173043235261075.png"
+        },
+        {
+            "name": "Arc de chasse de Favonius",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/e0761fb637cb5fd3971f4195bbb1b58c_5825501546793798522.png"
+        },
+        {
+            "name": "Lune paisible (prototype)",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/6d9776dea64400a58adb4eaf824c1618_7856808731964693728.png"
+        },
+        {
+            "name": "Arc à poulies",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/43246d1471d5297f9e53845ad86d2918_7035642372110236291.png"
+        },
+        {
+            "name": "Arc rituel",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/303b9b8c0b5b7a8b3a9ce4aab816e5d1_8000102011039233892.png"
+        },
+        {
+            "name": "Arc rouillé",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/baa762ef9f5c22d30bc249a2ae0dfaea_3936546545109725974.png"
+        },
+        {
+            "name": "Arc de guerre de Rochenoire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/da4fe7434ec5f0ed5f95cfb9da7a844b_2538885706328568131.png"
+        },
+        {
+            "name": "Arc Royal",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "Atq %",
+            "titre2": "Stat secondaire",
+            "value2": "42",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/5e126c30f3d95cdf7c9d173527e82919_4655043695640892720.png"
+        },
+        {
+            "name": "Arc de chasse verdoyant",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/15/76373921/3de256e8fa28b73278f4c47542b993ff_4408600244823991670.png"
+        },
+        {
+            "name": "Dernière corde",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/03/22/75833613/2ea701466be00898d0ada7d09a2f849c_5635514877088080646.png"
+        },
+        {
+            "name": "Fléau du dragon",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/b753959a45fc9989e39dd945e8769e4a_7246305538033198382.png"
+        },
+        {
+            "name": "Lance de Rochenoire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/b4e0f6c437598a77e7660997daf5260a_6818043451609106667.png"
+        },
+        {
+            "name": "Pique du croissant de lune",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/5c5a76b799e189de9257fe0bad6ab347_8851038139340277916.png"
+        },
+        {
+            "name": "Scion de la victoire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/bfb97f07e9bc595b008fed2337c7289d_7753532055258066057.png"
+        },
+        {
+            "name": "Guisarme stellaire (prototype)",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/388378b90036d2b75302bb7b67bae64f_8851038139340277916.png"
+        },
+        {
+            "name": "Lance lithique",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/7012ab402fc465ce0cc8706ccafb73ac_8465399646731085842.png"
+        },
+        {
+            "name": "Lance de Favonius",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/09/18/75833613/6140a0079a81382e3c44a02a9e84126e_3832161310922609277.png"
+        },
+        {
+            "name": "Lance Dosdragon",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/12/03/75833613/a9505cecd5f3c45d8b857ccff349b35d_170471145440489106.png"
+        },
+        {
+            "name": "Lance de chasse royale",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/11/03/75833613/5f0ecdf6675c087059ef9bdcf34f8bb7_1827289792203787038.png"
+        },
+        {
+            "name": "Espadon (prototype)",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/8f971bf97933800f22eeb1d1afeec757_2211975805959813699.png"
+        },
+        {
+            "name": "Espadon de Favonius",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/60cca5eecb54f5df17e9aadae0f20116_264997022537211017.png"
+        },
+        {
+            "name": "Ossature du dragon",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/e353e82e5f9a0fc316857d77424fb5c3_2072553675747153638.png"
+        },
+        {
+            "name": "Fluorescence",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/d1004336c0b48f25a7d3546b57bce070_8151428949982119088.png"
+        },
+        {
+            "name": "Espadon de Rochenoire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/572b49753770be07dec7065ed8aa9e33_8877950769405407439.png"
+        },
+        {
+            "name": "Épée-horloge",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "PV %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/17fa7c1aaf90e8ee33985e9bede2c57a_4632613104880844296.png"
+        },
+        {
+            "name": "Espadon royal",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/21ba2927f014300431edad9fc7d519d1_1610265671249743250.png"
+        },
+        {
+            "name": "Ombre immaculée",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Déf %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/de66a13513908e11123998c9783c6ff7_2333625586375398616.png"
+        },
+        {
+            "name": "Espadon rituel",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/12/03/75833613/1d809e4dc4cb46d286de580f7d37b84b_5276011893979097907.png"
+        },
+        {
+            "name": "Tombe-neige en argétoile",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/642e8c429133fad5355e6d24c0abdb15_4476230429909219654.png"
+        },
+        {
+            "name": "Amulette de Rochenoire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/58b3373fb5bb57023c89c60d5ede5956_7998100729957632961.png"
+        },
+        {
+            "name": "Atlas des terres et des mers",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/bb5d973a357ab939cc3c6c193000cfca_7348238567115141310.png"
+        },
+        {
+            "name": "Mémoires de rituels",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Maîtrise élémentaire",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/fadc9fb70048164753b72345362c0c21_8138223967719348978.png"
+        },
+        {
+            "name": "Grimoire royal",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/098ee6b954cc8b44400d6ed3c601f107_386256307043772697.png"
+        },
+        {
+            "name": "Malice (prototype)",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "PV %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/043803dbf1729027d76feaa7c24aa67b_7177712596365867328.png"
+        },
+        {
+            "name": "Codex de Favonius",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/d5fd5471553ba8ef97c9a8a1dd967470_1866028245471203356.png"
+        },
+        {
+            "name": "Perle solaire",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/ac439934d1093ab4f9eaac59784f3a0c_7755570159913975509.png"
+        },
+        {
+            "name": "Mouvement vagabond",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Dgt Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/e827b8eb972d3ac0f42569fe6d5e291b_8895484261548837844.png"
+        },
+        {
+            "name": "Oeil de la perception",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "41",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/06/21/76373921/dafe7f5cdecac90aec82b1a4ba04ff25_1613750252065332148.png"
+        },
+        {
+            "name": "Fruit du permafrost",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "42",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/12/16/75833613/ac42040366e47673837f75b3e7fc1263_7776892597161609993.png"
+        }
+    ],
+    "summon3": [
+        {
+            "name": "Lumine(Voyageuse) Anemo",
+            "type": "personnage",
+            "description": "Epée à 1 main / Anemo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Wind.png",
+            "titre1": "Attaque",
+            "value1": "Vents étrangers",
+            "titre2": "Skill",
+            "value2": "Épée de vortex",
+            "titre3": "Burst",
+            "value3": "Rafale de vent",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/lumine.png"
+        },
+        {
+            "name": "Xiao",
+            "type": "personnage",
+            "description": "Lancier / Anémo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Wind.png",
+            "titre1": "Attaque",
+            "value1": "Coup de tourbillon",
+            "titre2": "Skill",
+            "value2": "Cycle du vent lemniscatique",
+            "titre3": "Burst",
+            "value3": "Fléau du mal",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Xiao-1.png"
+        },
+        {
+            "name": "Venti",
+            "type": "personnage",
+            "description": "Arc / Anemo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Wind.png",
+            "titre1": "Attaque",
+            "value1": "Archerie divine",
+            "titre2": "Skill",
+            "value2": "Sonnet des Vents célestes",
+            "titre3": "Burst",
+            "value3": "Ode au Vent",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Venti-1.png"
+        },
+        {
+            "name": "Jean",
+            "type": "personnage",
+            "description": "Epée à 1 main / Anemo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Wind.png",
+            "titre1": "Attaque",
+            "value1": "Escrime de Favonius",
+            "titre2": "Skill",
+            "value2": "Épée de tourbillon",
+            "titre3": "Burst",
+            "value3": "Brise de pissenlit",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Jean-1.png"
+        },
+        {
+            "name": "Klee",
+            "type": "personnage",
+            "description": "Catalyseur / Pyro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Fire.png",
+            "titre1": "Attaque",
+            "value1": "Boum ! Boum !",
+            "titre2": "Skill",
+            "value2": "Bombe rebondissant",
+            "titre3": "Burst",
+            "value3": "Fleurs bombardier",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Klee-1.png"
+        },
+        {
+            "name": "Diluc",
+            "type": "personnage",
+            "description": "Epée à 2 mains / Pyro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Fire.png",
+            "titre1": "Attaque",
+            "value1": "Épée trempée",
+            "titre2": "Skill",
+            "value2": "Assaut brûlant",
+            "titre3": "Burst",
+            "value3": "Aurore",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/Diluc-1.png"
+        },
+        {
+            "name": "Keqing",
+            "type": "personnage",
+            "description": "Epée à 1 main / Electro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Electric.png",
+            "titre1": "Attaque",
+            "value1": "Escrime des nuages",
+            "titre2": "Skill",
+            "value2": "Retour des étoiles",
+            "titre3": "Burst",
+            "value3": "Promenade céleste",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/08/Keqing.png"
+        },
+        {
+            "name": "Qiqi",
+            "type": "personnage",
+            "description": "Epée à 1 main / Cryo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Ice.png",
+            "titre1": "Attaque",
+            "value1": "Escrime ancienne des nuages",
+            "titre2": "Skill",
+            "value2": "Arcane d'Adepte : Héraut de givre",
+            "titre3": "Burst",
+            "value3": "Arcane d'Adepte : Talisman sacré",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/08/Qiqi.png"
+        },
+        {
+            "name": "Lumine(Voyageuse) Geo",
+            "type": "personnage",
+            "description": "Epée à 1 main / Geo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Rock.png",
+            "titre1": "Attaque",
+            "value1": "Lame de roche",
+            "titre2": "Skill",
+            "value2": "Épée d'étoile déchue",
+            "titre3": "Burst",
+            "value3": "Réveil de la terre",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/lumine.png"
+        },
+        {
+            "name": "Zhongli",
+            "type": "personnage",
+            "description": "Lancier / Geo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Rock.png",
+            "titre1": "Attaque",
+            "value1": "Pluie de pierres",
+            "titre2": "Skill",
+            "value2": "Dominus Lapidis",
+            "titre3": "Burst",
+            "value3": "Chute de météore",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/11/Zhongli-1.png"
+        },
+        {
+            "name": "Albedo",
+            "type": "personnage",
+            "description": "Epée à 1 main / Geo",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Rock.png",
+            "titre1": "Attaque",
+            "value1": "Escrime de favonius - Blanche",
+            "titre2": "Skill",
+            "value2": "Génèse : Aura solaire",
+            "titre3": "Burst",
+            "value3": "Transformation : Reflux Géo",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2021/01/albedochar.png"
+        },
+        {
+            "name": "Mona",
+            "type": "personnage",
+            "description": "Catalyseur / Hydro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Water.png",
+            "titre1": "Attaque",
+            "value1": "Ondes du destin",
+            "titre2": "Skill",
+            "value2": "Mirage aqueux",
+            "titre3": "Burst",
+            "value3": "Voie divine",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/08/Mona.png"
+        },
+        {
+            "name": "Tartaglia",
+            "type": "personnage",
+            "description": "Arc / Hydro",
+            "icon": "https://www.genshin-impact.fr/wp-content/uploads/2020/07/UI_Icon_Water.png",
+            "titre1": "Attaque",
+            "value1": "Taille du torrent",
+            "titre2": "Skill",
+            "value2": "Marée déchainée",
+            "titre3": "Burst",
+            "value3": "Ravage : Oblitération",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/11/Childe2.png"
+        },
+        {
+            "name": "Coupeur de jade primordial",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "44",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2021/02/02/75833613/bfa02af5665193d9b8153107d5484e57_1067233185829539722.png"
+        },
+        {
+            "name": "Tranche-Sommets",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/12/16/75833613/16d127e84bb154ad5b18322f8cce9cf2_6572659368163794513.png"
+        },
+        {
+            "name": "Lame de la Voûte d'Azur",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/445ee7341d31462920858367cadc6fc1_8971950780736926360.png"
+        },
+        {
+            "name": "Épée du faucon",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "48",
+            "titre2": "Stat secondaire",
+            "value2": "Bonus de DGT physiques",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/935c2d06ae29f29e51b902d131782b18_2130159045735761471.png"
+        },
+        {
+            "name": "Ailes de la Voûte d'Azur",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "48",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/05f12093a755817ad3c51f53db1039a4_9202561265404212323.png"
+        },
+        {
+            "name": "Arc d'Amos",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://gaming.lebusmagique.fr/wp-content/uploads/Arc-dAmos-150x150.png"
+        },
+        {
+            "name": "Lance de jade ailée",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "48",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/cda9841711c3d126c81a531a02e94953_3658752798229410879.png"
+        },
+        {
+            "name": "Perceur Prismatique",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/c53d0341d955a50f5e4a39b802306315_2460382866741937219.png"
+        },
+        {
+            "name": "Berge de la Voûte d'Azur",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "48",
+            "titre2": "Stat secondaire",
+            "value2": "Recherge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/09/17/75833613/fe7b0e7f80a4e1c9876d27b89cbc93ec_7612540813795607024.png"
+        },
+        {
+            "name": "Lame brute",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/11/03/75833613/d4ecd5c1f63d73c86a17ad3b382ab95c_565722173744768204.png"
+        },
+        {
+            "name": "Mort-du-loup",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/22b30db150bfea372b73678157955047_2297579049732759021.png"
+        },
+        {
+            "name": "Fierté de la Voûte d'Azur",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "48",
+            "titre2": "Stat secondaire",
+            "value2": "Recharge d'énergie",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/93684c0ffeb85fa7388967a178260f1a_5549019955663881226.png"
+        },
+        {
+            "name": "L'origine des Quatre Vents",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Taux Crit",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/6804c9a9c7e8444a9e9d41523bc9da04_2649132708679612163.png"
+        },
+        {
+            "name": "Chaînes mortelles",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "46",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://www.genshin-impact.fr/wp-content/uploads/2020/11/chaines_Mortelle2.png"
+        },
+        {
+            "name": "Atlas de la Voûte d'Azur",
+            "type": "arme",
+            "titre1": "Base d'attaque",
+            "value1": "48",
+            "titre2": "Stat secondaire",
+            "value2": "Atq %",
+            "image": "https://uploadstatic.mihoyo.com/ys-obc/2020/07/17/75795471/d16313992a8ba86e6ba4a84977b59ca4_7445985310079124869.png"
+        }
+    ]
+}

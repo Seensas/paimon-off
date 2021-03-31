@@ -1,0 +1,151 @@
+{
+    "repas1": [
+        {
+            "name": "de Brochettes de poulet et de champignons"
+        },
+        {
+            "name": "du Poisson chihu grillé"
+        },
+        {
+            "name": "du Poisson grillé mondstadois"
+        },
+        {
+            "name": "de la Viande-mora"
+        },
+        {
+            "name": "d'une bonne Tasse de thé"
+        },
+        {
+            "name": "d'une Soupe de radis"
+        },
+        {
+            "name": "d'un bon Steak"
+        },
+        {
+            "name": "de la Viande sautée"
+        },
+        {
+            "name": "d'un Oeuf au plat de Teyvat"
+        },
+        {
+            "name": "d'une Gelée de menthe"
+        },
+        {
+            "name": "d'une Brochette fruitée"
+        },
+        {
+            "name": "d'un Super Steak de l’éclaireuse"
+        },
+        {
+            "name": "de la Viande-mora façon Caesor"
+        },
+        {
+            "name": "d'un Poisson grillé du survivant"
+        },
+        {
+            "name": "d'un Oeuf brulé de Tayvat"
+        }
+    ],
+    "repas2": [
+        {
+            "name": "un Ragoût à la crème"
+        },
+        {
+            "name": "un Goulach"
+        },
+        {
+            "name": "un Oeuf et des graines de lotus à la vapeur"
+        },
+        {
+            "name": "un Poulet fumé nordique"
+        },
+        {
+            "name": "des Pâtes à la bolognaise enflammées"
+        },
+        {
+            "name": "un Rouleau de viande au matsutake"
+        },
+        {
+            "name": "un Poulet mariné aux fleurs sucrantes"
+        },
+        {
+            "name": "un Ormeau végétarien"
+        },
+        {
+            "name": "un Tofu aux amandes"
+        },
+        {
+            "name": "des Boulettes de radis frites"
+        },
+        {
+            "name": "un Toast du pêcheur"
+        },
+        {
+            "name": "une Soupe aux perles et au jade"
+        },
+        {
+            "name": "des Pancakes moelleux"
+        },
+        {
+            "name": "un Poulet Rock’n’roll"
+        },
+        {
+            "name": "un Ragoût épicé"
+        }
+    ],
+    "repas3": [
+        {
+            "name": "un Ragoût de l’Archon anémo"
+        },
+        {
+            "name": "un Délice de viande et de carottes au miel"
+        },
+        {
+            "name": "une Soupe de porc aux pousses de bambou"
+        },
+        {
+            "name": "un Gratin de crabe, jambon et légumes"
+        },
+        {
+            "name": "des Boulettes de crevettes dorées"
+        },
+        {
+            "name": "une Galette de pomme de terre mondstadoise"
+        },
+        {
+            "name": "des Croquants aux crevettes"
+        },
+        {
+            "name": "un Empil’tout"
+        },
+        {
+            "name": "un Sandwich de l’aventurier"
+        },
+        {
+            "name": "un Assortiment de charcuterie"
+        },
+        {
+            "name": "des Ramens Alézi"
+        },
+        {
+            "name": "un Délice rustique de Qingce"
+        },
+        {
+            "name": "un Beignet lotus"
+        },
+        {
+            "name": "un Poisson grillé au beurre"
+        },
+        {
+            "name": "une Pizza revigorante"
+        }
+    ],
+    "repas4": [
+        {
+            "name": "Paim... Paimon c'est mes cheveux arrête de les manger!"
+        },
+        {
+            "name": "Paim... Paimon... c'était mes Primos!"
+        }
+    ]
+}
