@@ -15,6 +15,7 @@ client.on("ready", function () {
     var compteur = 0;
 // Répondre à un message
 client.on("message", function (message) {
+    setTimeout(() => {console.log("Attendre");
     try{
         compteur++;
         //eviter le spam
@@ -88,8 +89,8 @@ client.on("message", function (message) {
     N'oublie la commande **$d** pour la récompense quotidienne!\n
     Essaye la commande **$primo** pour voir ta richesse!\n
     Si tu as 160 <:primo:823874382391934977>, essaye la commande **$summon**!\n
-    Pour aller avec cette dernière, essaye le **$inventaire p** pour apercevoir tes personnages ou celui de quelqu'un d'autre en le mentionnant après la commande!\n
-    Il en va de même pour ses armes avec la commande **$inventaire a**!\n
+    Pour aller avec cette dernière, essaye le **$inventaire** pour apercevoir tes personnages ou celui de quelqu'un d'autre en le mentionnant après la comamnde!
+    __Note:__ clique sur l'épée pour voir tes/ses armes!\n
             `)}
 
         //$summon
@@ -568,7 +569,7 @@ client.on("message", function (message) {
         }
 
         //$primo
-        if (message.content === prefix + "primo") { message.channel.send(`Tu possèdes actuellement: **${bdd[`${idAuthorId}`]["Primo"]}** <:primo:823874382391934977>`);}
+        if (message.content === prefix + "primo") { message.channel.send(`Tu possèdes actuellement: **${bdd[`${idAuthorId}`]["Primo"]}** <:primo:823874382391934977>`); console.log(`primo${compteur}`)}
 
         //$d
         if(message.content === prefix + "d") {
@@ -616,5 +617,4 @@ function Savebdd(){
         if (err) message.channel.send("une erreur est survenue");
     });
 }
-
 client.login(process.env.TOKEN);
